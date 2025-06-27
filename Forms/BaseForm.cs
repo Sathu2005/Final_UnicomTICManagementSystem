@@ -24,6 +24,7 @@ namespace SchoolManagementSystem.Forms
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Font = new Font("Segoe UI", 9F);
+            this.BackColor = Color.White;
         }
 
         private void SetupUserContext()
