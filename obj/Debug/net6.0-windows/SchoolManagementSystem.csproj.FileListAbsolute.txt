@@ -1,0 +1,7 @@
+C:\Users\shath\Downloads\SchoolManagementSystem_VisualStudioReady - Copy\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.csproj.AssemblyReference.cache
+C:\Users\shath\Downloads\SchoolManagementSystem_VisualStudioReady - Copy\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.Forms.BaseForm.resources
+C:\Users\shath\Downloads\SchoolManagementSystem_VisualStudioReady - Copy\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.csproj.GenerateResource.cache
+C:\Users\shath\Downloads\SchoolManagementSystem_VisualStudioReady - Copy\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shath\Downloads\SchoolManagementSystem_VisualStudioReady - Copy\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.AssemblyInfoInputs.cache
+C:\Users\shath\Downloads\SchoolManagementSystem_VisualStudioReady - Copy\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.AssemblyInfo.cs
+C:\Users\shath\Downloads\SchoolManagementSystem_VisualStudioReady - Copy\SchoolManagementSystem\obj\Debug\net6.0-windows\SchoolManagementSystem.csproj.CoreCompileInputs.cache
